@@ -1,4 +1,4 @@
-Useful Links That have been Gatherer
+Useful Links That have been Gathered
 ====================================
 - [The Nicenano Product page](https://www.littlekeyboards.com/products/nice-nano)
 - [The Nicenano Docs Page](https://docs.nicekeyboards.com/#/nice!nano/)
