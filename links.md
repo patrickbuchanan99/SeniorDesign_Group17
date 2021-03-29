@@ -8,3 +8,5 @@ Useful Links That have been Gathered
 - [CONVERT ANY USB KEYBOARD TO BLUETOOTH](https://hackaday.com/2016/09/04/convert-any-usb-keyboard-to-bluetooth/)
 - [This is lowkey our project](https://imgur.com/a/eIk8Y)
 - [gh issue for usb shield on the micro](https://github.com/felis/USB_Host_Shield_2.0/issues/392)
+- [Bluemicro Getting Started Page](http://bluemicro.jpconstantineau.com/docs/)
+- [Arduino’s USB Host Shield using same Chip (Max3421)](https://www.arduino.cc/en/Main/ArduinoUSBHostShield&lang=)
